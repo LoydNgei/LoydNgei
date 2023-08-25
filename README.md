@@ -4,7 +4,10 @@ Hello, My name is Loyd Ngei. An aspiring software engineer ready for junior role
 - 🔭 I’m currently a Software engineering student at AlxAfrica
 - 🌱 I’m currently learning Backend engineering
 
-    TECHNOLOGIES
+
+~ TECHNOLOGIES ~
+
+  
 Python: Flask and Django framework
 
 Javascript: NodeJS and ExpressJS
