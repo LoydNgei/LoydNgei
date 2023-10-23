@@ -1,17 +1,18 @@
-Hello, My name is Loyd Ngei. An aspiring software engineer ready for junior roles and collaborations.
+Hello, My name is Loyd Ngei, an Alumni of ALX Africa Software Engineering Program with a Backend Specialization. I am on the Road to understanding Fullstack Development.
+
+  ### BACKEND TECHNOLOGIES
+
+I love writing my backend using JAVASCRIPT (NodeJS): EXPRESSJS framework to be precise
 
 
-- 🔭 I’m currently a Software engineering student at AlxAfrica
-- 🌱 I’m currently learning Backend engineering
+I have a good grasp of PYTHON development using FLASK and DJANGO Frameworks
 
 
-~ TECHNOLOGIES ~
+I have good understanding of how Database systems work. I have interacted with both Structured and Non structured DBs: MySQL and MONGODB
 
+
+  ### FRONTEND DEVELOPMENT
   
-Python: Flask and Django framework
+I have knowhow on how HTML, CSS Operate to create Static pages, I have mastered Javascript to help make the pages responsive
 
-Javascript: NodeJS and ExpressJS
-
-Database system: MySQL and MongoDB
-
-Web Dev: HTML, CSS(Tailwind CSS) and Javascript
+On the Road to REACT Mastery and make my work easy while creating awesome USER INTERFACES...
