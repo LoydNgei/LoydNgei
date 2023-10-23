@@ -1,4 +1,4 @@
-Hello, My name is Loyd Ngei, an Alumni of ALX Africa Software Engineering Program with a Backend Specialization. I am on the Road to understanding Fullstack Development.
+Hello, My name is Loyd Ngei, an Alumni of ALX Africa Software Engineering Program with a Backend Specialization. I am on the Road to Fullstack Development.
 
   ### BACKEND TECHNOLOGIES
 
