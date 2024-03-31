@@ -24,10 +24,12 @@ Here, you'll find a curated collection of my projects and insights from my journ
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoydNgei&show_icons=true&theme=dark)
 
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoydNgei&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoydNgei&theme=dark" alt="LoydNgei" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoydNgei&layout=compact&theme=transparent)
 
