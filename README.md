@@ -1,6 +1,11 @@
 # Loyd's Developer Hub
 
-Welcome to my developer hub! I'm a passionate software engineer and a Mathematics lover with expertise in Fullstack web development using JavaScript (ExpressJS and ReactJS), PHP (Laravel) and Python (Machine Learning context and Data Structures). Here, you'll find a collection of projects, and insights from my journey in the world of software development and Mathematics.
+- 👋 Hi, I'm Loyd, a passionate software engineer with a love for mathematics.
+- 👀 I do full-stack web development, particularly in JavaScript (ExpressJS and ReactJS), PHP (Laravel), and Python (especially in machine learning and data structures).
+- 🌱 I'm currently honing my skills in Backend engineering and System design.
+  
+
+Here, you'll find a curated collection of my projects and insights from my journey in software development and mathematics.
 
 
 ## 🔧 Technologies
@@ -20,8 +25,11 @@ Welcome to my developer hub! I'm a passionate software engineer and a Mathematic
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoydNgei&show_icons=true&theme=dark)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoydNgei&theme=dark" alt="LoydNgei" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoydNgei&layout=compact&theme=transparent)
 
 ## 🔗 Connect with Me  📲
 
@@ -29,5 +37,5 @@ Welcome to my developer hub! I'm a passionate software engineer and a Mathematic
 [![Twitter](twitter.png)](https://twitter.com/NgeiLoyd)
 [![Portfolio Website](website.png)](https://loydngei.vercel.app/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoydNgei&layout=compact&theme=transparent)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoydNgei&label=Profile%20views&color=0e75b6&style=flat" alt="LoydNgei" /> </p>
