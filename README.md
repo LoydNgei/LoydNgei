@@ -33,9 +33,17 @@ Here, you'll find a curated collection of my projects and insights from my journ
 
 ## 🔗 Connect with Me  📲
 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/loyd-ngei-151736231)
-[![Twitter](twitter.png)](https://twitter.com/NgeiLoyd)
-[![Portfolio Website](website.png)](https://loydngei.vercel.app/)
+
+<p align="left">
+  
+<a href="https://twitter.com/NgeiLoyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LoydNgei" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/loyd-ngei-151736231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory opondi" height="30" width="40" /></a>
+
+[![Portfolio Website](https://example.com/website.png)](https://loydngei.vercel.app/)
+
+
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoydNgei&label=Profile%20views&color=0e75b6&style=flat" alt="LoydNgei" /> </p>
