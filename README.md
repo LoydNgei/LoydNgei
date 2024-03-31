@@ -22,16 +22,13 @@ Here, you'll find a curated collection of my projects and insights from my journ
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-## 📈 GitHub Stats
 
 ## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoydNgei&show_icons=true&theme=dark)
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoydNgei&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoydNgei&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoydNgei&layout=compact&theme=dark)
 
 ## 🔗 Connect with Me  📲
 
@@ -42,7 +39,7 @@ Here, you'll find a curated collection of my projects and insights from my journ
   
 <a href="https://www.linkedin.com/in/loyd-ngei-151736231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory opondi" height="30" width="40" /></a>
 
-[![Portfolio Website](https://example.com/website.png)](https://loydngei.vercel.app/)
+(https://example.com/website.png)](https://loydngei.vercel.app/)
 
 
 </p>
