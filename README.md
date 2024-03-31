@@ -1,7 +1,7 @@
 # Welcome to my hub
 
 
-- 👋 Hi, I'm Loyd, a open minded lad, passionate about Software Engineering and Statistics.
+- 👋 Hi, I'm Loyd, an open minded lad, passionate about Software Engineering and Statistics.
   
 - 👀 I do Fullstack web development utilizing JavaScript (ExpressJS and ReactJS) and PHP (Laravel). I use Python for Machine Learning and Data Structures and Algorithms
   
@@ -37,7 +37,9 @@ Here, you'll find a curated collection of my projects and insights from my journ
 ## 🔗 Connect with Me  📲
 
   
-<a href="https://twitter.com/NgeiLoyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LoydNgei" height="30" width="40" /></a>   <a href="https://www.linkedin.com/in/loyd-ngei-151736231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory opondi" height="30" width="40" /></a>   [loydngei.vercel.app](https://loydngei.vercel.app/)
+<a href="https://twitter.com/NgeiLoyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LoydNgei" height="30" width="40" /></a>   <a href="https://www.linkedin.com/in/loyd-ngei-151736231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory opondi" height="30" width="40" /></a>
+
+[loydngei.vercel.app](https://loydngei.vercel.app/)
 
 
 
