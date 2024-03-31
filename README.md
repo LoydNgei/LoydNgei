@@ -20,9 +20,14 @@ Welcome to my developer hub! I'm a passionate software engineer and a Mathematic
 ## 📈 GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoydNgei&show_icons=true&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoydNgei&theme=dark" alt="LoydNgei" /></p>
 
-## 🔗 Connect with Me
+
+## 🔗 Connect with Me  📲
 
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/loyd-ngei-151736231)
 [![Twitter](twitter.png)](https://twitter.com/NgeiLoyd)
 [![Portfolio Website](website.png)](https://loydngei.vercel.app/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoydNgei&layout=compact&theme=transparent)
+
