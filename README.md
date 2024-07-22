@@ -1,12 +1,12 @@
 # Welcome to my hub
 
 
-- 👋 Hi, I'm Loyd, an open minded lad, passionate about Software Engineering and Statistics.
+- 👋 Hi, I'm Loyd, an open minded lad, passionate about Software Engineering and Data.
   
-- 👀 I do Fullstack web development utilizing JavaScript (ExpressJS and ReactJS) and PHP (Laravel). I use Python for Machine Learning and Data Structures and Algorithms
+- 👀 I do web development using Laravel, a PHP backend framework
   
-- 🌱 I'm currently honing my skills in Backend Engineering and System Design.
-  
+- 🌱 I'm currently honing my skills in Backend operations and exploring Data Engineering
+-   
 
 Here, you'll find a curated collection of my projects and insights from my journey in software development and mathematics.
 
