@@ -3,7 +3,7 @@
 
 - 👋 Hi, I'm Loyd, an open minded lad, passionate about Software Engineering and Data.
   
-- 👀 I do web development using Laravel, a PHP backend framework
+- 👀 I do web development using Laravel, a PHP framework
   
 - 🌱 I'm currently honing my skills in Backend operations and exploring Data Engineering
 
