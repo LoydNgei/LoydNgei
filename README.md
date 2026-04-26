@@ -24,8 +24,3 @@ Here, you'll find a curated collection of my projects and insights from my journ
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoydNgei&theme=dark)
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoydNgei&label=Profile%20views&color=0e75b6&style=flat" alt="LoydNgei" /> </p>
