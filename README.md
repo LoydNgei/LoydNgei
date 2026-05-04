@@ -1,13 +1,7 @@
 # Welcome to my hub
 
 
-- Hello, I'm Loyd, a fullstack digital creator passionate about of solving SMEs pain points
-
-## Technologies
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-
+- Hello, I'm Loyd, a fullstack digital creator passionate about of solving SMEs pain points using Technology & AI
 
 ## GitHub Stats
 
