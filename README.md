@@ -1,7 +1,7 @@
 # Welcome to my hub
 
 
-- Hello, I'm Loyd, a fullstack digital creator passionate about the art of solving pain points businesses/people experience 
+- Hello, I'm Loyd, a fullstack digital creator passionate about of solving SMEs pain points
 
 ## Technologies
 
